@@ -1,6 +1,6 @@
 # flutter_bottom_navigation_bar
 
-A new Flutter application.
+Simple example of Flutter bottom navigation bar using flutter library with some customization.
 
 ## Getting Started
 
